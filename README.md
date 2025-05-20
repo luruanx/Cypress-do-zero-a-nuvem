@@ -2,9 +2,7 @@
 
 👋 Seja bem-vindo(a)!
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
-
-## O que você vai aprender?
+## O que aprendi?
 
 - Como configurar um projeto Cypress do zero
 - Como visitar páginas locais e remotas
@@ -19,7 +17,7 @@
 - Como executar os testes em um _workflow_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
 - Como integrar seu _workflow_ de integração contínua com o Cypress Cloud (o serviço de gestão de testes do Cypress na nuvem)
 
-## Vamos começar?
+## Veja as etapas e execícios realizados
 
 Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 
